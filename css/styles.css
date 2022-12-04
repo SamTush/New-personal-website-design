@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Devanagari:wght@700&display=swap');
+
+body{
+    background-color: #f3f3f3;
+}
+
+.email{
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    font-size: 0.9em;
+}
+
+.role{
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    font-size: 0.7em;
+}
+
+.navbar {
+    background-color: #f3f3f3;
+}
+
+section{
+    height: 60vh;
+}
