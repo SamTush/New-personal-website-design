@@ -5,9 +5,14 @@ body{
     background-color: #f3f3f3;
 }
 
-.email{
+.email, .stay{
     font-family: 'IBM Plex Sans Devanagari', sans-serif;
     font-size: 0.9em;
+}
+
+.bottom{
+    font-family: 'IBM Plex Sans Devanagari', sans-serif;
+    font-size: 0.5em;
 }
 
 .role{
@@ -30,4 +35,8 @@ h2{
 
 .two{
     background-color: #FF5A5F;
+}
+
+.color{
+    color: inherit;
 }
